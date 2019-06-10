@@ -7,7 +7,7 @@ Each codeword in the test files have exactly 1 error. This program determines wh
 
 To get started, grab the https link above and clone this repo to your local machine
 ```
-git clone https://github.com/thebenhurley/fix-corrupted-emails.git
+git clone https://github.com/benhurley/fix-corrupted-emails.git
 ```
 
 Then run the Perl executable and pass in one of the test emails
